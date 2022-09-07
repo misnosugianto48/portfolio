@@ -1,21 +1,23 @@
-*{
-  box-sizing:content-box;
+* {
+  box-sizing: content-box;
 }
-.jumbotron{
+
+.jumbotron {
   padding-top: 5rem;
-  background-color:#F10086;
+  background-color: #f10086;
 }
 
-#My-Project{
-  background-color:#F10086;
+#My-Project {
+  background-color: #f10086;
 }
 
-/* #Contact-Me {
-  background-color:#F10086;
-} */
+.img-size {
+  width: 100%;
+  height: 150px;
+}
 
-footer > p > a{
-  text-decoration:none;
+footer > p > a {
+  text-decoration: none;
 }
 
 section {
